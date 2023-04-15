@@ -5,3 +5,11 @@ end;
 if game.PlaceId == 5783581 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/xfaz/ultimate/main/soccer", true))()
 end
+
+if game.PlaceId == 7288936208 then
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/xfaz/sbspaidfr/main/newfr", true))()
+end
+
+if game.PlaceId == 7922878642 then
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/xfaz/sbspaidfr/main/newfr", true))()
+end
